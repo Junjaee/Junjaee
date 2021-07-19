@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=plastic&logo=MongoDB&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white"/>
-  https://img.shields.io/github/languages/top/beygee/survive
+
 </p>
-<img src =https://img.shields.io/github/languages/top/beygee/survive>
+

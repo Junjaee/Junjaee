@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 </p>
-

@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am studying to become a data scientist.
+
 
 <!--
 **Junjaee/junjaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +29,7 @@ Here are some ideas to get you started:
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/> -->
 </p>
+<br>
 
 ### 💪 Skills
 #### Platforms & Languages & Tools

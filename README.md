@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am studying to become a data scientist.
+<!-- I am studying to become a data scientist. -->
 
 
 <!--

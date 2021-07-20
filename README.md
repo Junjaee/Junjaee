@@ -37,12 +37,12 @@ Here are some ideas to get you started:
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
   <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=plastic&logo=scikit-learn&logoColor=white"/>
   <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=plastic&logo=pandas&logoColor=white"/>
+  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=plastic&logo=PyTorch&logoColor=white"/>
   <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=plastic&logo=R&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=plastic&logo=MongoDB&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white"/>
-
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjaee&show_icons=true&hide=)](https://github.com/anuraghazra/github-readme-stats)

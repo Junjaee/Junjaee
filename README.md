@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <a href="mailto:neverenvy92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/neverenvy92@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/junjaee/" target="_blank"><img src="https://img.shields.io/badge/junjaee-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/junjaee" target="_blank"><img src="https://img.shields.io/badge/junjaee-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:neverenvy92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/junjaee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/junjaee" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <p>
